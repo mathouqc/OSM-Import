@@ -31,4 +31,4 @@ Buildings source shapefile: [The Open Database of Buildings (source shapefile)](
 
 ## Others
 
-https://www.openstreetmap.org/user/MathouQC%20Import
+https://www.openstreetmap.org/user/MathouQC
